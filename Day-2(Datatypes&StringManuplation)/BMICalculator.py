@@ -1,0 +1,6 @@
+number = input("enter number ")
+print("number " + number[1])
+num = int(int(number[0]) + int(number[1]))
+print("num : " + num)
+print(type(num))
+print(type(number))
